@@ -1,4 +1,6 @@
 ﻿*.db
+*.db-*
 *.ipch
+*.opendb
 *.suo
 obj/
